@@ -1,0 +1,37 @@
+{
+  "ProjectName": "KendoTabStrip",
+  "ProjectGuid": "41514603-5ff9-453d-bc27-0ae9d7f06175",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.KendoTabStrip",
+  "DisplayName": "KendoTabStrip",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{4c4bc8a8-1252-4ea2-9dc3-79dcd993a697}",
+  "WP8ProductID": "{c1a947bf-7266-4ae3-ba98-5a2ab86a9a67}",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
